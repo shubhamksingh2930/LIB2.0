@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839629473384",
+    "project_id": "genzlib-2",
+    "storage_bucket": "genzlib-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839629473384:android:54f6236cf8eb7585bcdddd",
+        "android_client_info": {
+          "package_name": "com.example.lib1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOfGAckVLokwssAqZHPMbszJ6hdTRKYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
