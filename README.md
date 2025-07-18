@@ -8,5 +8,5 @@ The app ensures accurate tracking of library visitors, secure storage of records
 - **Backend & Database**: Firebase (Firestore, Authentication)  
 - **Payment Gateway**: Razorpay  
 - **Language**: Dart  
-# Note: Adjust computer version as per need and there be some changes maybe due to which it wont work so debug it yourself.
+# Note: The application may require configuration adjustments depending on your system setup. If any issues arise, debug and update the configuration as needed.
 ---
